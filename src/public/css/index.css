@@ -1,0 +1,60 @@
+.header {
+    max-width: 1500px;
+}
+.header__inner {
+    background-color: #000;
+    width: 100%;
+    padding: 20px 0 20px 100px;
+}
+.header__title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+}
+.main__inner {
+    text-align: center;
+    padding-top: 20px;
+}
+.main__title {
+    padding-bottom: 20px;
+}
+.main__about {
+    font-weight: bold;
+}
+.main__table {
+    margin: 0 auto;
+}
+.main__table-category {
+    text-align: justify;
+    padding: 20px 150px 20px 0;
+}
+span {
+    margin-left: 5px;
+    background-color: #EEEEEE;
+    color:#CCCCCC;
+}
+.main__table-text {
+    text-align: justify;
+}
+.main__table-text input {
+    width: 400px;
+    height: 40px;
+    font-size: 13px;
+    padding-left: 10px;
+    border: 1px solid #CCCCCC;
+}
+.main__table-text textarea {
+    margin-top: 10px;
+    border: 1px solid #CCCCCC;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    font-size: 13px;
+}
+button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    margin-top: 50px;
+    padding: 10px 90px;
+}
